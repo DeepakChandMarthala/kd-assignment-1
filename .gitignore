@@ -1,0 +1,9 @@
+# Ignore password and credential files
+*.json
+*.env
+/secrets/
+
+# Ignore any other sensitive files or directories
+/app/service-account.json
+
+service-account.json
